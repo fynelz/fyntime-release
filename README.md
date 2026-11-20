@@ -21,28 +21,28 @@ FynTime works as a **companion for Microsoft Family Safety** (preventing tamperi
 
 ---
 
-## Latest Production Release: `v1.0.14` (Windows 10 & 11, macOS)
+## Latest Production Release: `v1.0.15` (Windows 10 & 11, macOS)
 
 All official installers are served from `https://dl.fyntime.com/` and can be verified against the SHA-256 checksums below:
 
 | Package | Platform | Download URL | SHA-256 Checksum |
 | :--- | :--- | :--- | :--- |
-| `FynTimeSetup-1.0.14+0674192.exe` | Windows 64-bit (`x64`) | [Download EXE](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.14+0674192.exe) | `0674192aeec4e6614e19a9bf75567792929be094e2402d3df27182e50bf3d7ce` |
-| `FynTimeSetup-1.0.14+b7ff8fe-arm64.exe` | Windows ARM64 (`arm64`) | [Download ARM64 EXE](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.14+b7ff8fe-arm64.exe) | `b7ff8fedd486829e2eb98b8a4acbc4fa5397024c9217c4222ebf31168202df71` |
-| `FynTimeSetup-1.0.14+4a02588-macos.pkg` | macOS | [Download PKG](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.14+4a02588-macos.pkg) | `4a02588da80eabf49ed58b0f6d8b343152d26855dc2f0a6819c5dbb1e8742db5` |
+| `FynTimeSetup-1.0.15+d30617d.exe` | Windows 64-bit (`x64`) | [Download EXE](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.15+d30617d.exe) | `d30617d6084192f3688a9316cd78b8ae965bf87ec125a3cff485831bf4205f80` |
+| `FynTimeSetup-1.0.15+70f8dd6-arm64.exe` | Windows ARM64 (`arm64`) | [Download ARM64 EXE](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.15+70f8dd6-arm64.exe) | `70f8dd65b920f4ef966a8c397ecc70074adc1dc6c01c7289b4dda66aa72c53ef` |
+| `FynTimeSetup-1.0.15+8f5dbe1-macos.pkg` | macOS | [Download PKG](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.15+8f5dbe1-macos.pkg) | `8f5dbe193553c74cb112a7d8f0ab688ab192714c5b8f4c7089dcce82e1bc70b8` |
 
 ### Verify Checksum
 
 PowerShell (Windows):
 
 ```powershell
-Get-FileHash .\FynTimeSetup-1.0.14+0674192.exe -Algorithm SHA256
+Get-FileHash .\FynTimeSetup-1.0.15+d30617d.exe -Algorithm SHA256
 ```
 
 Terminal (macOS):
 
 ```bash
-shasum -a 256 FynTimeSetup-1.0.14+4a02588-macos.pkg
+shasum -a 256 FynTimeSetup-1.0.15+8f5dbe1-macos.pkg
 ```
 
 ---
