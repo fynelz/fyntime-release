@@ -25,13 +25,11 @@ FynTime works as a **companion for Microsoft Family Safety** (preventing tamperi
 
 All official installers are served from `https://dl.fyntime.com/` and can be verified against the SHA-256 checksums below:
 
-| Package | Architecture | Download URL | SHA-256 Checksum |
+| Package | Platform | Download URL | SHA-256 Checksum |
 | :--- | :--- | :--- | :--- |
-| `FynTimeSetup-1.0.14+0674192.exe` | Windows 64-bit (`x64`) | [Download EXE](https://dl.fyntime.com/FynTimeSetup-1.0.14%2B0674192.exe) | `0674192aeec4e6614e19a9bf75567792929be094e2402d3df27182e50bf3d7ce` |
-| `FynTimeSetup-1.0.14+c135a27.msi` | Windows 64-bit (`x64`) | [Download MSI](https://dl.fyntime.com/FynTimeSetup-1.0.14%2Bc135a27.msi) | `c135a2724904fd57ce1e5f72238f12b4459e84f7ee3af7a0e6a9942306e4d321` |
-| `FynTimeSetup-1.0.14+b7ff8fe-arm64.exe` | Windows ARM64 (`arm64`) | [Download ARM64 EXE](https://dl.fyntime.com/FynTimeSetup-1.0.14%2Bb7ff8fe-arm64.exe) | `b7ff8fedd486829e2eb98b8a4acbc4fa5397024c9217c4222ebf31168202df71` |
-| `FynTimeSetup-1.0.14+01a5579-arm64.msi` | Windows ARM64 (`arm64`) | [Download ARM64 MSI](https://dl.fyntime.com/FynTimeSetup-1.0.14%2B01a5579-arm64.msi) | `01a5579a0d6534e96d7fae79ac8b6a2cfb53f9cfd4303804d4840f45945ae8db` |
-| `FynTimeSetup-1.0.14+4a02588-macos.pkg` | macOS | [Download PKG](https://dl.fyntime.com/FynTimeSetup-1.0.14%2B4a02588-macos.pkg) | `4a02588da80eabf49ed58b0f6d8b343152d26855dc2f0a6819c5dbb1e8742db5` |
+| `FynTimeSetup-1.0.14+0674192.exe` | Windows 64-bit (`x64`) | [Download EXE](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.14+0674192.exe) | `0674192aeec4e6614e19a9bf75567792929be094e2402d3df27182e50bf3d7ce` |
+| `FynTimeSetup-1.0.14+b7ff8fe-arm64.exe` | Windows ARM64 (`arm64`) | [Download ARM64 EXE](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.14+b7ff8fe-arm64.exe) | `b7ff8fedd486829e2eb98b8a4acbc4fa5397024c9217c4222ebf31168202df71` |
+| `FynTimeSetup-1.0.14+4a02588-macos.pkg` | macOS | [Download PKG](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.14+4a02588-macos.pkg) | `4a02588da80eabf49ed58b0f6d8b343152d26855dc2f0a6819c5dbb1e8742db5` |
 
 ### Verify Checksum
 
