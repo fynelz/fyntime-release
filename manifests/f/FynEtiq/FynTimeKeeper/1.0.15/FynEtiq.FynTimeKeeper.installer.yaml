@@ -21,10 +21,10 @@ AppsAndFeaturesEntries:
     UpgradeCode: '{7F3A1C92-6B4E-4D88-9E21-0A5C3D7F8B12}'
 Installers:
   - Architecture: x64
-    InstallerUrl: https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.15+44f1d11.exe
-    InstallerSha256: 44F1D119FEDE855664F1281B17E08A7B7CE2DE3B05B9B61D274668F2A6D2A35E
+    InstallerUrl: https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.15+885dfaf.exe
+    InstallerSha256: 885DFAF23B1B7CAF5D8FF8FEA8C193BE1E312B61E92A979380D30A21909BBB52
   - Architecture: arm64
-    InstallerUrl: https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.15+af8c25f-arm64.exe
-    InstallerSha256: AF8C25FE2D2F348E47CBB83C7F88F5AA3AA23D04A9E2DB558B5B9E210716E2C4
+    InstallerUrl: https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.15+9dcfa25-arm64.exe
+    InstallerSha256: 9DCFA2564BF9B8C5CD0AA086177FB83C044CCB4D89A0647EB5E14B1D6E508E4A
 ManifestType: installer
 ManifestVersion: 1.28.0
