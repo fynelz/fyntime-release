@@ -29,7 +29,7 @@ All official installers are served from `https://dl.fyntime.com/` and can be ver
 | :--- | :--- | :--- | :--- |
 | `FynTimeSetup-1.0.19+85dcf40.exe` | Windows 64-bit (`x64`) | [Download EXE](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.19+85dcf40.exe) | `85dcf4085f1484116525abf6e751bba9df2dc96e8108e17e3ea6fc46eb9112c7` |
 | `FynTimeSetup-1.0.19+0432c6a-arm64.exe` | Windows ARM64 (`arm64`) | [Download ARM64 EXE](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.19+0432c6a-arm64.exe) | `0432c6afa9163d2c850f5e5c5adb9b704c5fe03bb7e0ad1464ee37b5ad36d2a6` |
-| `FynTimeSetup-1.0.18+6fd2a2f-macos.pkg` | macOS | [Download PKG](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.18+6fd2a2f-macos.pkg) | `6fd2a2fbb18db08915955b17a8eab8708654aae8b04082bd0f0fba45c887ec24` |
+| `FynTimeSetup-1.0.19+78e3462-macos.pkg` | macOS | [Download PKG](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.19+78e3462-macos.pkg) | `78e346246702f0aeef8cee8f57787e84ae953248566e7be80a994952c1a6fa3a` |
 
 ### Verify Checksum
 
@@ -42,7 +42,7 @@ Get-FileHash .\FynTimeSetup-1.0.19+85dcf40.exe -Algorithm SHA256
 Terminal (macOS):
 
 ```bash
-shasum -a 256 FynTimeSetup-1.0.18+6fd2a2f-macos.pkg
+shasum -a 256 FynTimeSetup-1.0.19+78e3462-macos.pkg
 ```
 
 ---
