@@ -27,8 +27,8 @@ All official installers are served from `https://dl.fyntime.com/` and can be ver
 
 | Package | Platform | Download URL | SHA-256 Checksum |
 | :--- | :--- | :--- | :--- |
-| `FynTimeSetup-1.0.15+885dfaf.exe` | Windows 64-bit (`x64`) | [Download EXE](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.15+885dfaf.exe) | `885dfaf23b1b7caf5d8ff8fea8c193be1e312b61e92a979380d30a21909bbb52` |
-| `FynTimeSetup-1.0.15+9dcfa25-arm64.exe` | Windows ARM64 (`arm64`) | [Download ARM64 EXE](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.15+9dcfa25-arm64.exe) | `9dcfa2564bf9b8c5cd0aa086177fb83c044ccb4d89a0647eb5e14b1d6e508e4a` |
+| `FynTimeSetup-1.0.15+2f1974a.exe` | Windows 64-bit (`x64`) | [Download EXE](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.15+2f1974a.exe) | `2f1974ac51469cfc54e40fbba94507cbb282a9d5ffb89cf82904b3ded4fef328` |
+| `FynTimeSetup-1.0.15+c8017ae-arm64.exe` | Windows ARM64 (`arm64`) | [Download ARM64 EXE](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.15+c8017ae-arm64.exe) | `c8017ae1d516df73509645388bc992e6319a3660f06606effcb98f4d22b7acd0` |
 | `FynTimeSetup-1.0.15+8f5dbe1-macos.pkg` | macOS | [Download PKG](https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.15+8f5dbe1-macos.pkg) | `8f5dbe193553c74cb112a7d8f0ab688ab192714c5b8f4c7089dcce82e1bc70b8` |
 
 ### Verify Checksum
@@ -36,7 +36,7 @@ All official installers are served from `https://dl.fyntime.com/` and can be ver
 PowerShell (Windows):
 
 ```powershell
-Get-FileHash .\FynTimeSetup-1.0.15+885dfaf.exe -Algorithm SHA256
+Get-FileHash .\FynTimeSetup-1.0.15+2f1974a.exe -Algorithm SHA256
 ```
 
 Terminal (macOS):
