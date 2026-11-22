@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 
 PackageIdentifier: FynEtiq.FynTimeKeeper
-PackageVersion: 1.0.20
+PackageVersion: 1.0.21
 MinimumOSVersion: 10.0.19041.0
 InstallerType: burn
 Scope: machine
@@ -17,14 +17,14 @@ ElevationRequirement: elevatesSelf
 AppsAndFeaturesEntries:
   - DisplayName: FynTime
     Publisher: FynEtiq LLC
-    DisplayVersion: 1.0.20.0
+    DisplayVersion: 1.0.21.0
     UpgradeCode: '{7F3A1C92-6B4E-4D88-9E21-0A5C3D7F8B12}'
 Installers:
   - Architecture: x64
-    InstallerUrl: https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.20+89d9d5c.exe
-    InstallerSha256: 89D9D5C7C022364A32D69F00B9027D893D0DF6B3B9ABAEBA2559BA60D9058E45
+    InstallerUrl: https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.21+9250b4b.exe
+    InstallerSha256: 9250B4B9B524A68DAA15C511DB9E4683536616EE655C069B75FF0B65DD0DBD83
   - Architecture: arm64
-    InstallerUrl: https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.20+4b25c40-arm64.exe
-    InstallerSha256: 4B25C404E2E875C52E59E2CFE613CDCB26C31DF8240F22EE589AB42CEFC40D77
+    InstallerUrl: https://dl.fyntime.com/ftlxq/FynTimeSetup-1.0.21+e9c63f5-arm64.exe
+    InstallerSha256: E9C63F5F40D3451BB1548BB3BE73FA1954E06BF86C861C3DBD9E6B43B2025516
 ManifestType: installer
 ManifestVersion: 1.28.0
