@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.28.0.schema.json
 
 PackageIdentifier: FynEtiq.FynTimeKeeper
-PackageVersion: 1.0.19
+PackageVersion: 1.0.20
 PackageLocale: en-US
 Publisher: FynEtiq LLC
 PublisherUrl: https://www.fynetiq.com
